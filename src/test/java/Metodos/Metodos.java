@@ -72,6 +72,5 @@ public class Metodos {
 		driver = new ChromeDriver();
 		driver.get(url);
 		driver.manage().window().maximize();
-
 	}
 }
